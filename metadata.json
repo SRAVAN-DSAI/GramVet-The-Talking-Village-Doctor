@@ -1,0 +1,8 @@
+{
+  "name": "GramVet",
+  "description": "A multimodal veterinary assistant for rural farmers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
